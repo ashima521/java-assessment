@@ -16,8 +16,6 @@ public class OfflineExercises {
 	// multChar("Hi-There") → "HHHiii---TTThhheeerrreee"
 
 	public String multChar(String input) {
-		String str = input 
-		 if(str[i
 		
 		return "";
 	}
@@ -34,10 +32,10 @@ public class OfflineExercises {
 	// getBert("xxbeRTyy") → ""
 
 	public String getBert(String input) {
-	 return
-		ArrayList <String> input = new ArrayList <String> (input.split("bert"));
+	 return input; }
+		//ArrayList <String> input = new ArrayList <String> (input.split("bert"));
 	        
-	        System.out.println(input[1].reverse())}
+	      //  System.out.println(input[1].reverse())}
 
 
 	// Given three ints, a b c, one of them is small, one is medium and one is
@@ -67,9 +65,9 @@ public class OfflineExercises {
 	// nMid("Chocolate", 1) → "Choclate"
 
 	public String nMid(String input, int a) {
-		return 
+		return input; }
 			
-	}
+
 
 	// Given a string, return true if it ends in "dev". Ignore Case
 
@@ -96,10 +94,9 @@ public class OfflineExercises {
 
 	public int superBlock(String input) {
         
-		ArrayList<String> inputs = new ArrayList<String>();
-		for(int i = 0; i < input.length(); i++) {
-			inputs[i].equal()
-		}
+	//	ArrayList<String> inputs = new ArrayList<String>();
+	//	for(int i = 0; i < input.length(); i++) {
+			//inputs[i].equal()
 		
 		return 
 		input.length();
@@ -115,9 +112,8 @@ public class OfflineExercises {
 
 	public int amISearch(String arg1) {
 		
-		if (arg1.matches("am") || arg1.matches("Am")) {		
-			return 
-	}}
+	//	if (arg1.matches("am") || arg1.matches("Am")) {		
+		return 0;}
 	
 	//given a number 
 	// if this number is divisible by 3 return "fizz"
@@ -130,13 +126,14 @@ public class OfflineExercises {
 	
 	public String fizzBuzz(int arg1) {
 		
+		
 		if (arg1 % 3 == 0) {
             return "fizz";}
 		
 		else if (arg1 % 5 == 0){
 			return "buzz";}
-	
-        else if (arg1 % 5 == 0 && arg1 % 3 == 0){
+		
+		else if (arg1 % 5 == 0 && arg1 % 3 == 0){
          	return "fizzbuzz";}
 		return null;}
 	
@@ -155,7 +152,8 @@ public class OfflineExercises {
 	//largest("555 72 86 45 10") → 15
 	
 	public int largest(String arg1) {
-         String[] arg1 = ("");
+		return 0;
+         //String[] arg1 = ("");
 		
 	}
 	
